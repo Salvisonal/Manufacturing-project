@@ -1,4 +1,4 @@
-# Manufacturing Analytics Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79e3f8dd-a30d-4022-9eff-c346c1011be1" /># Manufacturing Analytics Dashboard
 
 ## Dashboard Preview
 
@@ -40,3 +40,4 @@ The dashboard provides management with actionable insights to improve production
 ## Author
 Sonal Salvi
 Operations Analyst | Reporting Analyst | MIS Analyst
+LinkedIn: https://linkedin.com/in/sonal-salvi-9a31b32b1/

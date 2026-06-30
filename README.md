@@ -1,6 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79e3f8dd-a30d-4022-9eff-c346c1011be1" /># Manufacturing Analytics Dashboard
-
-## Dashboard Preview
+6## Dashboard Preview
 
 ![Manufacturing Dashboard](manufacturing_dashboard.png)
 

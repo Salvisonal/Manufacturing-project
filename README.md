@@ -11,6 +11,7 @@ This project analyzes manufacturing operations data using Power BI, SQL, and Exc
 - Power BI
 - SQL
 - Microsoft Excel
+- Tableau
 
 ## Key KPIs
 - Manufactured Quantity

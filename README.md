@@ -1,4 +1,6 @@
-6## Dashboard Preview
+# Manufacturing Analytics Dashboard
+
+## Dashboard Preview
 
 ![Manufacturing Dashboard](manufacturing_dashboard.png)
 
